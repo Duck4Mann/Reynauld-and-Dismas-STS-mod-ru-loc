@@ -1,0 +1,323 @@
+{
+        "DarkestMod:AfflictPower": {
+                "NAME": "AFFLICTION",
+                "DESCRIPTIONS": [
+                        "You applied AFF"
+                ]
+        },
+
+        "DarkestMod:Abusive": {
+                "NAME": "ABUSIVE",
+                "DESCRIPTIONS": [
+                        "AFFLICTION: NL You can not apply Block for 1 turn."
+                ]
+        },
+        "DarkestMod:Fearful": {
+                "NAME": "FEARFUL",
+                "DESCRIPTIONS": [
+                        "AFFLICTION: NL Lose 2 Strength and Dexterity "
+                ]
+        },
+        "DarkestMod:Hopeless": {
+                "NAME": "HOPELESS",
+                "DESCRIPTIONS": [
+                        "AFFLICTION: NL Shuffle 5 Normalities into your deck"
+                ]
+        },
+        "DarkestMod:Irrational": {
+                "NAME": "IRRATIONAL",
+                "DESCRIPTIONS": [
+                        "AFFLICTION: NL Become Hexed until the end of Combat."
+                ]
+        },
+        "DarkestMod:Masochistic": {
+                "NAME": "MASOCHISTIC",
+                "DESCRIPTIONS": [
+                        "AFFLICTION: NL Apply 99 Vulnerable"
+                ]
+        },
+
+
+        "DarkestMod:Paranoid": {
+                "NAME": "PARANOID",
+                "DESCRIPTIONS": [
+                        "AFFLICTION: NL Become Confused for the rest of Combat"
+                ]
+        },
+
+        "DarkestMod:Selfish": {
+                "NAME": "SELFISH",
+                "DESCRIPTIONS": [
+                        "AFFLICTION: NL Lose 100 gold and shuffle 2 Kleptomaniac Curses into your deck"
+                ]
+        },
+
+        "DarkestMod:Courageous": {
+                "NAME": "COURAGEOUS",
+                "DESCRIPTIONS": [
+                        "VIRTUE: NL Gain 3 Artifact and 3 Dexterity "
+                ]
+        },
+
+        "DarkestMod:Focused": {
+                "NAME": "FOCUSED",
+                "DESCRIPTIONS": [
+                        "VIRTUE: NL Gain 3 turns of Intangible"
+                ]
+        },
+
+        "DarkestMod:Powerful": {
+                "NAME": "POWERFUL",
+                "DESCRIPTIONS": [
+                        "VIRTUE: NL Gain 5 Strength."
+                ]
+        },
+        "DarkestMod:Stalwart": {
+                "NAME": "STALWART",
+                "DESCRIPTIONS": [
+                        "VIRTUE: NL Heal for 100 Stress."
+                ]
+        },
+        "DarkestMod:Vigorous": {
+                "NAME": "VIGOROUS",
+                "DESCRIPTIONS": [
+                        "VIRTUE: NL Heal for 50 Health."
+                ]
+        },
+
+        "DarkestMod:DeathsDoor": {
+                "NAME": "HEART ATTACK",
+                "DESCRIPTIONS": [
+                        "Health is reduced to 1."
+                ]
+        },
+
+
+        "DarkestMod:CommonPower": {
+                "NAME": "Placeholder Power",
+                "DESCRIPTIONS": [
+                        "You applied #b",
+                        " keyword.",
+                        " keywords."
+                ]
+        },
+
+        "DarkestMod:ArbalestPower": {
+                "NAME": "Arbalest",
+                "DESCRIPTIONS": [
+                        "Wehenever you apply Marked also apply #b",
+                        " Weak."
+                ]
+        },
+
+        "DarkestMod:AntiqPower": {
+                "NAME": "Antiquarian",
+                "DESCRIPTIONS": [
+                        "At the end of each turn add 1 Antique to your discard pile."
+                ]
+        },
+
+        "DarkestMod:AbomPower": {
+                "NAME": "Abomination",
+                "DESCRIPTIONS": [
+                        "Even Turns gain 2 Temporary Strength. NL Odd Turns gain 2 Temporary Dexterity."
+                ]
+        },
+
+        "DarkestMod:BountyPower": {
+                "NAME": "Bounty Hunter",
+                "DESCRIPTIONS": [
+                        "At the start of each turn apply Marked to a random enemy."
+                ]
+        },
+        "DarkestMod:CrusaderPower": {
+                "NAME": "Crusader",
+                "DESCRIPTIONS": [
+                        "Every time you play and Attack, gain 3 Block."
+                ]
+        },
+
+        "DarkestMod:FlagPower": {
+                "NAME": "Flagellant",
+                "DESCRIPTIONS": [
+                        "Gain #b",
+                        " temporary Strength when below 50% HP."
+                ]
+        },
+
+        "DarkestMod:GrobberPower": {
+                "NAME": "Grave Robber",
+                "DESCRIPTIONS": [
+                        "At the start of turn add #b Thrown Daggers to the hand"
+                ]
+        },
+        "DarkestMod:HellionPower": {
+                "NAME": "Hellion",
+                "DESCRIPTIONS": [
+                        "Whenever you gain Strength add random Attack cards to your hand, they cost 0 "
+                ]
+        },
+
+        "DarkestMod:HighwayPower": {
+                "NAME": "Highwayman",
+                "DESCRIPTIONS": [
+                        "At the start of turn add a Grapeshot to the hand."
+                ]
+        },
+
+        "DarkestMod:LeperPower": {
+                "NAME": "Leper",
+                "DESCRIPTIONS": [
+                        "Each turn gain #b",
+                        " Strength if you have a Debuff."
+                ]
+        },
+
+        "DarkestMod:JesterPower": {
+                "NAME": "Jester",
+                "DESCRIPTIONS": [
+                        "All incoming stress is reduced by 1."
+                ]
+        },
+        "DarkestMod:ManPower": {
+                "NAME": "Man At Arms",
+                "DESCRIPTIONS": [
+                        "Damage from attacks is halved",
+                        "for the next #b turns."
+                ]
+        },
+
+        "DarkestMod:VestalPower": {
+                "NAME": "Vestal",
+                "DESCRIPTIONS": [
+                        "All cards in the deck are upgraded."
+                ]
+        },
+
+        "DarkestMod:Riposte": {
+                "NAME": "Riposte",
+                "DESCRIPTIONS": [
+                        "Riposte, whenever attacked deal damage back."
+                ]
+        },
+
+        "DarkestMod:OpenVein": {
+                "NAME": "Open Vein",
+                "DESCRIPTIONS": [
+                        "All attacks apply an additional #b",
+                        " Bleed."
+                ]
+        },
+
+
+        "DarkestMod:PlaguePower": {
+                "NAME": "Plague Doctor",
+                "DESCRIPTIONS": [
+                        "When attacked and dealt damage, apply #b",
+                        " Blight to ALL enemies."
+                ]
+        },
+
+
+
+        "DarkestMod:RarePower": {
+                "NAME": "Placeholder Power",
+                "DESCRIPTIONS": [
+                        "At the start of your turn, TOUCH #b",
+                        " enemy.",
+                        " enemies."
+                ]
+        },
+        "DarkestMod:PowerAffliction": {
+                "NAME": "Afflicted",
+                "DESCRIPTIONS": [
+                        "No chance for egress - will this be a massacre?"
+                ]
+        },
+
+        "DarkestMod:HeartAttack": {
+                "NAME": "Deaths Door",
+                "DESCRIPTIONS": [
+                        "Stress Causes an Heart Attack and fall to 1 health"
+                ]
+        },
+
+
+        "DarkestMod:PowerBleed": {
+                "NAME": "Bleed",
+                "DESCRIPTIONS": [
+                        "At the end of the bleeding  of your turn, enemies lose #b",
+                        "HP NL Bleed is reduced by 1 each turn."
+                ]
+        },
+
+        "DarkestMod:PowerBlight": {
+                "NAME": "Blight",
+                "DESCRIPTIONS": [
+                        "[#a0c704]Blighted targets lose #b",
+                        "HP when cards with Trigger are played."
+                ]
+        },
+        "DarkestMod:PowerMarked": {
+                "NAME": "Marked",
+                "DESCRIPTIONS": [
+                        "[#550a8a]Marked Enemies take double damage from the next attack."
+                ]
+        },
+
+        "DarkestMod:PowerStress": {
+        "NAME": "Stress",
+        "DESCRIPTIONS": [
+                "Current stress level is #b",
+                " NL Become Afflcited at 100 Stress",
+                " NL Suffer a Heart attack at 200 Stress."
+        ]
+},
+        "DarkestMod:StunnedPower": {
+        "NAME": "Stunned",
+        "DESCRIPTIONS": [
+                "If the enemy intends to attack Stun them NL Stunned enemies skip their action."
+        ]
+},
+
+        "DarkestMod:Tracking": {
+                "NAME": "Tracking",
+                "DESCRIPTIONS": [
+                        "Whenever you play an Attack card this turn, the targeted enemy loses HP."
+                ]
+        },
+
+        "DarkestMod:PowerLight": {
+                "NAME": "Torch Light",
+                "DESCRIPTIONS": [
+                        "Current Light level is #b",
+                        " NL At + 7 gain + 1 Dexterity",
+                        " NL At -7  gain +1 Strength & +1 Vulnerable per turn."
+
+                ]
+        },
+        "DarkestMod:CoughPower": {
+                "NAME": "Creeping Cough",
+                "DESCRIPTIONS": [
+                        "Your next attack does 4 less damage."
+                ]
+        },
+        "DarkestMod:RunsPower": {
+                "NAME": "The Runs",
+                "DESCRIPTIONS": [
+                        "You lose 3 Max HP."
+                ]
+        },
+        "DarkestMod:RabiesPower": {
+                "NAME": "Rabies",
+                "DESCRIPTIONS": [
+                        "When applied gain 2 Strength and lose 2 Dexterity."
+                ]
+        },
+        "DarkestMod:RedPlaguePower": {
+                "NAME": "The Red Plague",
+                "DESCRIPTIONS": [
+                        "When applied gain 3 Bleed and 4 Stress."
+                ]
+        }
+}

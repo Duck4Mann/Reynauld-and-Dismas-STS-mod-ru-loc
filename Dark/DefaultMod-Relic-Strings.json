@@ -1,0 +1,189 @@
+{
+  "DarkestMod:BandanaRelic": {
+    "NAME": "Bull's Eye Bandana.",
+    "FLAVOR": "Shoot, bandage and pillage: the dancing steps of war.",
+    "DESCRIPTIONS": [
+      "At the start of your 4th turn apply Marked to ALL enemies."
+    ]
+  },
+
+  "DarkestMod:BeserkRelic": {
+    "NAME": "Berserk Mask.",
+    "FLAVOR": "This man understands that adversity and existence are one and the same.",
+    "DESCRIPTIONS": [
+      "20% Increased Virtue chance when afflicted."
+    ]
+  },
+  "DarkestMod:BossStressUpgradeRelic": {
+    "NAME": "Stressed Meter.",
+    "FLAVOR": "The human mind - fragile like a robin's egg.",
+    "DESCRIPTIONS": [
+      "15 Stress reduced when entering a rest site.Tracks Stress between rounds."
+    ]
+  },
+
+  "DarkestMod:BlasphemousVialRelic": {
+    "NAME": "Blasphemous Vial",
+    "FLAVOR": "The slow death - unforeseen, unforgiving.",
+    "DESCRIPTIONS": [
+      "When attacks deal damage also apply 1 Blight to that enemy."
+    ]
+  },
+
+  "DarkestMod:CandleRelic": {
+    "NAME": "Candle of Life.",
+    "FLAVOR": "She searches where others will not go... and sees what others will not see.",
+    "DESCRIPTIONS": [
+      "At the start of your 2nd turn Gain 10 Block and 2 max HP."
+    ]
+  },
+
+  "DarkestMod:DemonsRelic": {
+    "NAME": "Demons Cauldron",
+    "FLAVOR": "To fight the abyss, one must know it..",
+    "DESCRIPTIONS": [
+      "Every 2 times you shuffle your draw pile, gain 1 Strength and add a Curse: The Runs into the deck."
+    ]
+  },
+
+  "DarkestMod:GuardianRelic": {
+    "NAME": "Guardian's Shield.",
+    "FLAVOR": "The raw strength of youth may be spent, but his eyes hold the secrets of a hundred campaigns.",
+    "DESCRIPTIONS": [
+      "At the start of your 3rd turn Gain 5 Plated Armour."
+    ]
+  },
+  "DarkestMod:GunslingerRelic": {
+    "NAME": "Gunslinger's Buckle.",
+    "FLAVOR": "Elusive, evasive, persistent. Righteous traits for a rogue.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, add a Tracking Shot into your hand."
+    ]
+  },
+  "DarkestMod:HairpinRelic": {
+    "NAME": "Hell's Hairpin.",
+    "FLAVOR": "Barbaric rage and unrelenting savagery make for a powerful ally.",
+    "DESCRIPTIONS": [
+      "When the Light Level is -5 or less Gain 1 energy."
+    ]
+  },
+  "DarkestMod:HolyRelic": {
+    "NAME": "Holy Orders.",
+    "FLAVOR": "A mighty sword-arm anchored by a holy purpose. A zealous warrior.",
+    "DESCRIPTIONS": [
+      "Once per combat right click to remove all debuffs."
+    ]
+  },
+
+  "DarkestMod:LuckyDiceRelic": {
+    "NAME": "Critical Dice",
+    "FLAVOR": "He will be laughing still... at the end.",
+    "DESCRIPTIONS": [
+      "Once per combat right click to discard any number of cards then draw that many."
+    ]
+  },
+
+  "DarkestMod:PunishmentsHoodRelic": {
+    "NAME": "Punishment's Hood",
+    "FLAVOR": "Great is the weapon that cuts on its own!",
+    "DESCRIPTIONS": [
+      "Whenever attacked apply 1 bleed to ALL enemies ."
+    ]
+  },
+
+  "DarkestMod:RaiderRelic": {
+    "NAME": "Raider's Talisman.",
+    "FLAVOR": "To those with a keen eye, gold gleams like a dagger's point.",
+    "DESCRIPTIONS": [
+      "The 2nd time you play an attack card remove Block from ALL enemies."
+    ]
+  },
+
+  "DarkestMod:RestrainingRelic": {
+    "NAME": "Restraining Padlock.",
+    "FLAVOR": "Tortured and reclusive... this man is more dangerous than he seems...",
+    "DESCRIPTIONS": [
+      "At the start of your 2nd turn gain 2 temporary Strength."
+    ]
+  },
+
+  "DarkestMod:SpikedRelic": {
+    "NAME": "Spiked Collar.",
+    "FLAVOR": "A lawman and his faithful beast. A bond forged by battle and bloodshed.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain 1 Riposte."
+    ]
+  },
+
+  "DarkestMod:StressRelic": {
+    "NAME": "Stress Meter.",
+    "FLAVOR": "Injury and despondence set the stage for heroism... or cowardice..",
+    "DESCRIPTIONS": [
+      "Tracks Stress between rounds."
+    ]
+  },
+  "DarkestMod:TorchLightRelic": {
+    "NAME": "Torch Light",
+    "FLAVOR": "The way is lit. The path is clear. We require only the strength to follow it.",
+    "DESCRIPTIONS": [
+      "At the beginning of combat gain #b1 Light ."
+    ]
+  },
+
+  "DarkestMod:TomeRelic": {
+    "NAME": "Tome of Holy Healing",
+    "FLAVOR": "The wounds of war can be healed, but never hidden.",
+    "DESCRIPTIONS": [
+      "Heal for 15 upon pickup. Start each combat with +2 Light."
+    ]
+  },
+
+  "DarkestMod:VenomousRelic": {
+    "NAME": "Venomous Vial.",
+    "FLAVOR": "A sharper sword, a stronger shield. Anything to prolong a soldier's life.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply 3 Blight to ALL enemies."
+    ]
+  },
+
+  "DarkestMod:WoundingRelic": {
+    "NAME": "Wounding Helmet.",
+    "FLAVOR": "Surgical precision!",
+    "DESCRIPTIONS": [
+      "Shovels do 4 more damage"
+    ]
+  },
+
+  "DarkestMod:PlaceholderRelic": {
+    "NAME": "Placeholder Energy Relic",
+    "FLAVOR": "The snake is a friend.",
+    "DESCRIPTIONS": [
+      "Gain #b1 [E] ."
+    ]
+  },
+  "DarkestMod:PlaceholderRelic2": {
+    "NAME": "Placeholder Relic 2",
+    "FLAVOR": "You feel stronger.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b1 #yStrength."
+    ]
+  },
+  "DarkestMod:DefaultClickableRelic": {
+    "NAME": "Right-Clicky Relic",
+    "FLAVOR": "The more you right-click it, the more orbs you've evoked in your lifetime.",
+    "DESCRIPTIONS": [
+      "[#2aecd7]Usable [#2aecd7]once [#2aecd7]per [#2aecd7]turn.[] NL #yEvoke your rightmost Orb.",
+      "YOU ARE MINE!"
+    ]
+  },
+  "DarkestMod:BottledPlaceholderRelic": {
+    "NAME": "Bottled Placeholder",
+    "FLAVOR": "What is this?",
+    "DESCRIPTIONS": [
+      "Choose a card. Whenever you take play any card, draw the chosen card.",
+      "Whenever you play a card, draw ",
+      ".",
+      "Select a card to bottle for "
+    ]
+  }
+}

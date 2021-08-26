@@ -1,0 +1,515 @@
+{
+  "DarkestMod:Absolution": {
+    "NAME": "Отпущение грехов",
+    "DESCRIPTION": "Лечит на !M! и убирает 8 darkestmod:Стресс. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Лечит на !M! и убирает 12 darkestmod:Стресс. NL Сжигается."
+  },
+
+  "DarkestMod:Antiques": {
+    "NAME": "Antiques",
+    "DESCRIPTION": "Gain 10 Gold. NL Сжигается"
+  },
+
+  "DarkestMod:Barbaric YAWP": {
+    "NAME": "Barbaric YAWP",
+    "DESCRIPTION": "If the target intends to attack apply Stunned else gain 2 Strength. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "If the target intends to attack apply Stunned else gain 2 Strength. "
+  },
+
+  "DarkestMod:Beast Bile": {
+    "NAME": "Beast Bile",
+    "DESCRIPTION": "Gain 4 darkestmod:Stress. NL Apply !M! darkestmod:Blight to target creature.",
+    "UPGRADE_DESCRIPTION": "Gain 4 darkestmod:Stress. NL Apply !M! darkestmod:Blight and then darkestmod:Trigger darkestmod:Blight on target creature."
+  },
+
+  "DarkestMod:Bolster": {
+    "NAME": "Bolster",
+    "DESCRIPTION": "Apply !B! block 4 times"
+  },
+  "DarkestMod:BulwarkSkill": {
+    "NAME": "Bulwark of Faith",
+    "DESCRIPTION": "Apply !B! block this turn and !M! block next turn."
+  },
+
+  "DarkestMod:Defender": {
+    "NAME": "Defender",
+    "DESCRIPTION": "Apply !M! Plated Armour and !M! darkestmod:Riposte NL Сжигается "
+  },
+  "DarkestMod:Divine Comfort": {
+    "NAME": "Divine Comfort",
+    "DESCRIPTION": "Heal yourself and ALL enemies for !M! "
+  },
+
+  "DarkestMod:Duelists Advance": {
+    "NAME": "Duelists Advance",
+    "DESCRIPTION": "Draw 2 cards and !M! darkestmod:Riposte "
+  },
+
+  "DarkestMod:Festering Vapours": {
+    "NAME": "Festering Vapours",
+    "DESCRIPTION": "Apply !M! darkestmod:blight and darkestmod:Trigger darkestmod:blight damage on ALL enemies."
+  },
+
+  "DarkestMod:Flashing Daggers": {
+    "NAME": "Flashing Daggers",
+    "DESCRIPTION": "Add !M! Thrown Daggers into your hand."
+  },
+
+  "DarkestMod:Get Down": {
+    "NAME": "Get Down",
+    "DESCRIPTION": "Discard 1 card and Draw !M! cards"
+  },
+
+  "DarkestMod:Guard Dog": {
+    "NAME": "Guard Dog",
+    "DESCRIPTION": "Apply !B! block and draw a card"
+  },
+
+  "DarkestMod:Illumination": {
+    "NAME": "Illumination",
+    "DESCRIPTION": "Apply !B! block. If the darkestmod:Light level is 3 or Higher gain an additional 7 block."
+  },
+
+  "DarkestMod:Invigorating Vapours": {
+    "NAME": "Invigorating Vapours",
+    "DESCRIPTION": "Draw 2 cards and then reduce a cards cost to 0"
+  },
+
+  "DarkestMod:Inspiring Cry": {
+    "NAME": "Inspiring Cry",
+    "DESCRIPTION": "Heal !M! Stress and +5 darkestmod:Light."
+  },
+
+  "DarkestMod:Noxious Blast": {
+    "NAME": "Noxious Blast",
+    "DESCRIPTION": " On target creature darkestmod:trigger darkestmod:Blight !M! times"
+  },
+
+  "DarkestMod:Mark For Death": {
+    "NAME": "Mark For Death",
+    "DESCRIPTION": "Apply !M! darkestmod:Marked to ALL enemies."
+  },
+
+  "DarkestMod:Plague Grenade": {
+    "NAME": "Plague Grenade",
+    "DESCRIPTION": "darkestmod:Trigger darkestmod:Blight on target creature",
+    "UPGRADE_DESCRIPTION":"darkestmod:Trigger darkestmod:Blight on target creature and then draw a card"
+  },
+
+  "DarkestMod:Protect Me": {
+    "NAME": "Protect Me",
+    "DESCRIPTION": "Apply !B! block and take !M! darkestmod:Stress "
+  },
+
+  "DarkestMod:Purge": {
+    "NAME": "Purge",
+    "DESCRIPTION": " darkestmod:Light -3 and draw !M! cards "
+  },
+
+  "DarkestMod:Provisions": {
+    "NAME": "Provisions",
+    "DESCRIPTION": "Apply !B! block"
+  },
+
+  "DarkestMod:Rain of Sorrows": {
+    "NAME": "Rain of Sorrows",
+    "DESCRIPTION": "Apply !M! darkestmod:Bleed and 2 Vulnerable to ALL enemies"
+  },
+
+  "DarkestMod:Redeem": {
+    "NAME": "Redeem",
+    "DESCRIPTION": "Can only be played when below 40% Max HP. Heal for 25% of Max HP "
+  },
+
+  "DarkestMod:ShadowFade": {
+    "NAME": "Shadow Fade",
+    "DESCRIPTION": "Gain !B! Block and apply !M! weak to ALL enemies "
+  },
+
+  "DarkestMod:Serpent Sway": {
+    "NAME": "Serpent Sway",
+    "DESCRIPTION": "Apply !M! darkestmod:Buffer. NL Сжигается."
+  },
+
+  "DarkestMod:Snipers Mark": {
+    "NAME": "Snipers Mark",
+    "DESCRIPTION": "Apply darkestmod:Marked to an enemy",
+    "UPGRADE_DESCRIPTION": " Innate. NL Apply darkestmod:Marked to an enemy. "
+  },
+
+  "DarkestMod:Endure": {
+    "NAME": "Endure",
+    "DESCRIPTION": "Gain !B! block and heal 3 darkestmod:Stress"
+  },
+
+  "DarkestMod:Target Whistle": {
+    "NAME": "Target Whistle",
+    "DESCRIPTION": "Apply darkestmod:Marked to an enemy, next turn draw !M! more cards"
+  },
+
+  "DarkestMod:Torch": {
+    "NAME": "Факел",
+    "DESCRIPTION": "Даёт !B! защиты и !M! darkestmod:Света"
+  },
+
+  "DarkestMod:Tracking Shot": {
+    "NAME": "Tracking Shot",
+    "DESCRIPTION": "Whenever you play an Attack card this turn, the targeted enemy loses !M! HP."
+  },
+
+
+  "DarkestMod:Weakening Curse": {
+    "NAME": "Weakening Curse",
+    "DESCRIPTION": "Gain 5 stress. NL Target enemy loses 2 Strength and is darkestmod:Marked. NL Сжигается. ",
+    "UPGRADE_DESCRIPTION":"Gain 5 stress. NL Target enemy loses 2 Strength and is darkestmod:Marked."
+  },
+
+  "DarkestMod:Withstand": {
+    "NAME": "Withstand",
+    "DESCRIPTION": "Apply 1 darkestmod:Marked to yourself and gain !M! Dexterity. NL Сжигается."
+  },
+
+  "DarkestMod:Wyrd Reconstruction": {
+    "NAME": "Wyrd Reconstruction",
+    "DESCRIPTION": "Apply 3 darkestmod:Bleed to yourself. NL Heal between 0 & 12 Health. NL Сжигается"
+  },
+
+  "DarkestMod:Zealous Accusation": {
+    "NAME": "Zealous Accusation",
+    "DESCRIPTION": "darkestmod:Stun ALL enemies. NL Сжигается."
+  },
+
+  "DarkestMod:attackPoisonTest": {
+    "NAME": "POISON",
+    "DESCRIPTION": "Deal !D! damage. And apply !M! darkestmod:Blight to the enemy. Gain NL darkestmod:Stress"
+  },
+
+  "DarkestMod:Abyssal Artillery": {
+    "NAME": "Abyssal Artillery",
+    "DESCRIPTION": "Deal !D! damage. And lose !M! darkestmod:Light"
+  },
+
+  "DarkestMod:Adders Kiss": {
+    "NAME": "Adder's Kiss",
+    "DESCRIPTION": "On target creature darkestmod:trigger darkestmod:Blight damage. And then apply !M! darkestmod:Blight"
+  },
+
+  "DarkestMod:Blindfire": {
+    "NAME": "Blindfire",
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+  },
+
+  "DarkestMod:Breakthrough": {
+    "NAME": "Breakthrough",
+    "DESCRIPTION": "Remove enemy block and Deal !D! damage X times to ALL enemies."
+  },
+
+  "DarkestMod:Chop": {
+    "NAME": "Chop",
+    "DESCRIPTION": "Deal !D! damage. Shuffle a Creeping Cough into your discard pile."
+  },
+
+  "DarkestMod:Collect Bounty": {
+    "NAME": "Collect Bounty",
+    "DESCRIPTION": "Deal !D! damage. If the enemy is darkestmod:Marked, gain 2 Energy and 2 Strength."
+  },
+
+  "DarkestMod:Dazzling Light": {
+    "NAME": "Dazzling Light",
+    "DESCRIPTION": "Deal !D! damage and gain !M! Light."
+  },
+
+  "DarkestMod:Dirk Stab": {
+    "NAME": "Dirk Stab",
+    "DESCRIPTION": "Enemy loses !D! health. NL This does not trigger damage affects and ignores Block."
+  },
+
+  "DarkestMod:DogBiscuit": {
+    "NAME": "Dog Treat",
+    "DESCRIPTION": "!M! stress and gain 3 temporary Health. NL Сжигается."
+  },
+  "DarkestMod:Finale": {
+    "NAME": "Finale",
+    "DESCRIPTION": "Deal !D! damage. And Сжигается your hand"
+  },
+
+  "DarkestMod:Finish Him": {
+    "NAME": "Finish Him",
+    "DESCRIPTION":  "Deal !D! damage. If the enemy is darkestmod:Marked, gain 3 Energy."
+  },
+
+  "DarkestMod:GrapeshotBlast": {
+    "NAME": "Grapeshot Blast",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Сжигается"
+  },
+  "DarkestMod:Hound's Harry": {
+    "NAME": "Hound's Harry",
+    "DESCRIPTION": "Deal !D! damage. If the enemy has darkestmod:Bleed apply 2 Vulnerable, else apply 5 darkestmod:Bleed ."
+  },
+
+  "DarkestMod:Harvest": {
+    "NAME": "Harvest",
+    "DESCRIPTION": "Deal !D! damage. And apply !M! darkestmod:Bleed to ALL enemies"
+  },
+
+  "DarkestMod:Incision": {
+    "NAME": "Incision",
+    "DESCRIPTION": "Deal !D! damage. And apply !M! darkestmod:Bleed to the target enemy"
+  },
+
+  "DarkestMod:OpenVein": {
+    "NAME": "Open Vein",
+    "DESCRIPTION": "Deal !D! damage, Until end of tun all attacks also apply 3 darkestmod:Bleed ."
+  },
+
+  "DarkestMod:PickToTheFace": {
+    "NAME": "PickToTheFace",
+    "DESCRIPTION": "Deal !D! damage. Put a card from your deck into your hand."
+  },
+
+  "DarkestMod:Pierce": {
+    "NAME": "Pierce",
+    "DESCRIPTION": "Remove all Block from target enemy and Deal !D! damage."
+  },
+
+    "DarkestMod:Pistol Shot": {
+      "NAME": "Pistol Shot",
+      "DESCRIPTION": "Deal !D! damage."
+    },
+
+
+  "DarkestMod:Point Blank Shot": {
+    "NAME": "Point Blank Shot",
+    "DESCRIPTION": "Deal !D! damage. NL Сжигается.",
+    "UPGRADE_DESCRIPTION":"Deal !D! damage."
+  },
+
+  "DarkestMod:Impale": {
+    "NAME": "Impale",
+    "DESCRIPTION": "Deal !D! damage and apply !M! darkestmod:Blight."
+
+  },
+  "DarkestMod:Punish": {
+    "NAME": "Punish",
+    "DESCRIPTION": "Deal !D! damage. Apply 3 darkestmod:Bleed to yourself and !M! darkestmod:Bleed to the enemy"
+  },
+
+  "DarkestMod:Rake": {
+    "NAME": "Rake",
+    "DESCRIPTION": "Deal !D! damage. Gain !M! darkestmod:Stress"
+  },
+
+  "DarkestMod:Rampart": {
+    "NAME": "Rampart",
+    "DESCRIPTION": "Deal !D! damage. Gain !B! Block"
+  },
+
+  "DarkestMod:Sacrificial Stab": {
+    "NAME": "Sacrificial Stab",
+    "DESCRIPTION": "Deal !D! damage If darkestmod:Light level is -3 or less Deal additional 5."
+  },
+
+  "DarkestMod:Shovel": {
+    "NAME": "Лопата",
+    "DESCRIPTION": "Наносит !D! урона."
+  },
+  "DarkestMod:Stunning Blow": {
+    "NAME": "Stunning Blow",
+    "DESCRIPTION": "Deal !D! damage and if the enemy intended to attack apply darkestmod:Stun. NL Ethereal.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage and if the enemy intended to attack apply darkestmod:Stun. NL Ethereal."
+  },
+
+  "DarkestMod:Sniper Shot": {
+    "NAME": "Sniper Shot",
+    "DESCRIPTION": "Deal !D! damage and apply 1 darkestmod:Marked."
+  },
+
+  "DarkestMod:ThrownDagger": {
+    "NAME": "Thrown Dagger",
+    "DESCRIPTION": "Deal !D! damage and !M! darkestmod:Bleed to the enemy. NL Сжигается"
+  },
+
+  "DarkestMod:WickedHack": {
+    "NAME": "Wicked Hack",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+
+  "DarkestMod:Abomination": {
+    "NAME": "Abomination",
+    "DESCRIPTION": "Even Turns gain 2 Temporary Strength. NL Odd Turns gain 2 Temporary Dexterity.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Even Turns gain 2 Temporary Strength. NL Odd Turns gain 2 Temporary Dexterity."
+  },
+  "DarkestMod:Arbalest": {
+    "NAME": "Arbalest",
+    "DESCRIPTION": "Whenever darkestmod:Marked is applied also apply !M! Weak"
+  },
+
+  "DarkestMod:Antiquarian": {
+    "NAME": "Antiquarian",
+    "DESCRIPTION": "Gain !M! Frail and at the end of each turn add 1 Antique to your discard pile."
+  },
+
+  "DarkestMod:BountyHunter": {
+    "NAME": "Bounty Hunter",
+    "DESCRIPTION": "At the start of each turn apply darkestmod:Marked to a random enemy."
+  },
+
+
+  "DarkestMod:Crusader": {
+    "NAME": "Crusader",
+    "DESCRIPTION": "Every time you play and Attack, gain !M! Block"
+  },
+
+  "DarkestMod:Flagellant": {
+    "NAME": "Flagellant",
+    "DESCRIPTION": "Gain !M! Temporary Strength when below 50% HP"
+  },
+
+  "DarkestMod:GraveRobber": {
+    "NAME": "Grave Robber",
+    "DESCRIPTION": "At the start of your turn add !M! Thrown Daggers into your hand."
+  },
+
+  "DarkestMod:Hellion": {
+    "NAME": "Hellion",
+    "DESCRIPTION": "Whenever you gain Strength add a random Attack card to your hand, it costs 0 until the end of combat.",
+    "UPGRADE_DESCRIPTION":"Whenever you gain Strength add 2 random Attack cards to your hand, it costs 0 until the end of combat."
+  },
+
+  "DarkestMod:Highwayman": {
+    "NAME": "Highwayman",
+    "DESCRIPTION": "At the start of each turn add !M! Grapeshot Blasts into your hand."
+  },
+
+  "DarkestMod:Houndmaster": {
+    "NAME": "Houndmaster",
+    "DESCRIPTION": "Gain !M! temporary health and shuffle a Dog Treat into the deck each turn."
+  },
+
+  "DarkestMod:Jester": {
+      "NAME": "Jester",
+      "DESCRIPTION": "Reduce stress by !M! and all incoming stress from damage is reduced by 1."
+  },
+
+  "DarkestMod:Leper": {
+    "NAME": "Leper",
+    "DESCRIPTION": "At the start of turn gain !M! Strength if you have a darkestmod:Debuff ."
+  },
+
+  "DarkestMod:ManAtArms": {
+    "NAME": "Man at Arms",
+    "DESCRIPTION": "Damage from attacks is halved for the next !M! turns."
+  },
+
+  "DarkestMod:Occultist": {
+    "NAME": "Occultist",
+    "DESCRIPTION": "Apply 3 Bleed to yourself, lose -5 Light, NL draw !M! more cards per turn "
+  },
+
+  "DarkestMod:PlagueDoctor": {
+    "NAME": "Plague Doctor",
+    "DESCRIPTION": "When attacked and dealt damage, apply !M! darkestmod:Blight to ALL enemies."
+  },
+
+  "DarkestMod:Sheildbreaker": {
+  "NAME": "Sheildbreaker",
+  "DESCRIPTION": "Apply !M! darkestmod:Buffer "
+},
+
+  "DarkestMod:Vestal": {
+    "NAME": "Vestal",
+    "DESCRIPTION": "Can only be played when Light is !M! or higher. Upgrade all cards in the deck. NL Retain. "
+  },
+
+  "DarkestMod:AfflictionTemp": {
+    "NAME": "Afflict Test card",
+    "DESCRIPTION": "Unplayable. NL At the end of turn Gain !B! block and then Сжигается."
+  },
+
+  "DarkestMod:Abusive": {
+    "NAME": "Abusive",
+    "DESCRIPTION": "Unplayable. NL You cannot gain Block from cards for 3 turns.Сжигается."
+  },
+
+  "DarkestMod:Fearful": {
+    "NAME": "Fearful",
+    "DESCRIPTION": "Unplayable. NL At the end of turn Lose 2 Strength and 2 Dexterity. NL Сжигается."
+  },
+
+
+  "DarkestMod:Hopeless": {
+    "NAME": "Hopeless",
+    "DESCRIPTION": "Unplayable.  At the end of turn shuffle 5 Normalities into the deck then Сжигается."
+  },
+
+  "DarkestMod:Irrational": {
+    "NAME": "Irrational",
+    "DESCRIPTION": "Unplayable. NL Become darkestmod:Hexed. NL Сжигается."
+  },
+
+  "DarkestMod:Paranoid": {
+    "NAME": "Paranoid",
+    "DESCRIPTION": "Unplayable. Become Confused and then Сжигается."
+  },
+
+  "DarkestMod:Masochistic": {
+    "NAME": "Masochistic",
+    "DESCRIPTION": "Unplayable. NL Gain 99 vulnerable. NL Сжигается."
+  },
+
+  "DarkestMod:Selfish": {
+    "NAME": "Selfish",
+    "DESCRIPTION": "Unplayable. NL Lose 100 Gold. NL Сжигается."
+  },
+
+  "DarkestMod:Courageous": {
+    "NAME": "Courageous",
+    "DESCRIPTION": "Unplayable. NL Gain 3 Dexterity and 3 Artifact. NL Сжигается."
+  },
+
+  "DarkestMod:Focused": {
+    "NAME": "Focused",
+    "DESCRIPTION": "Unplayable. NL Gain 3 Intangible and then Сжигается."
+  },
+
+  "DarkestMod:Powerful": {
+    "NAME": "Powerful",
+    "DESCRIPTION": "Unplayable. NL At the end of turn gain 5 Strength and then Сжигается."
+  },
+
+  "DarkestMod:Stalwart": {
+    "NAME": "Stalwart",
+    "DESCRIPTION": "Unplayable. NL At the end of turn heal 100 stress and gain 20 Block. NL Сжигается."
+  },
+
+  "DarkestMod:Vigorous": {
+    "NAME": "Vigorous",
+    "DESCRIPTION": "Unplayable. NL At the end of turn Heal for 50 and then Сжигается."
+  },
+
+
+  "DarkestMod:CurseRabies": {
+    "NAME": "Rabies",
+    "DESCRIPTION": "Unplayable. NL At the end of turn become diseased with Rabies."
+  },
+  "DarkestMod:CurseKleptomaniac": {
+    "NAME": "Kleptomaniac",
+    "DESCRIPTION": "Unplayable. NL At the end of turn Сжигается a random card from your hand and Lose 10 Gold."
+  },
+
+  "DarkestMod:CurseCreepingCough": {
+  "NAME": "Creeping Cough",
+  "DESCRIPTION": "Unplayable. NL At the end of turn become diseased with the Creeping Cough."
+},
+
+  "DarkestMod:CurseRedPlague": {
+    "NAME": "The Red Plague",
+    "DESCRIPTION": "Unplayable. NL At the end of turn become diseased with The Red Plague."
+  },
+
+  "DarkestMod:CurseTheRuns": {
+    "NAME": "The Runs",
+    "DESCRIPTION": "Unplayable. NL At the end of turn become diseased with The Runs."
+  }
+
+}
