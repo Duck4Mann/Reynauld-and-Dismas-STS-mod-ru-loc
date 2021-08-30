@@ -1,9 +1,9 @@
 {
   "DarkestMod:BandanaRelic": {
-    "NAME": "Bull's Eye Bandana.",
-    "FLAVOR": "Shoot, bandage and pillage: the dancing steps of war.",
+    "NAME": "Бандана "В яблочко".",
+    "FLAVOR": "Выстрелы, бинты и разбой — вот танец войны!",
     "DESCRIPTIONS": [
-      "At the start of your 4th turn apply Marked to ALL enemies."
+      "Накладывает Отметка на ВСЕХ врагов в начале 4 хода."
     ]
   },
 

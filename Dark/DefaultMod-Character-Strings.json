@@ -1,13 +1,13 @@
 {
   "DarkestMod:DefaultCharacter": {
     "NAMES": [
-      "Reynauld & Dismas",
-      "Reynauld and Dismas"
+      "Рейналд & Дисмас",
+      "Рейналд и Дисмас"
     ],
     "TEXT": [
-      "There is a great horror beneath the manor: NL A Crawling Chaos that must be destroyed!",
-      "NL You STRIKE the heart.",
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The oldest among them steps forward  and extends a long, pale hand towards you. NL ~You still foolishly consider yourself an entity separate from the whole, I know better. And I. Will. Show you."
+      "Под поместьем царит великий ужас: NL Ползучий Хаос, который необходимо уничтожить!",
+      "NL Ты БЬЁШЬ сердце.",
+      "Пробираясь по тёмной улице, вы застаёте несколько таинственных фигур в процессе какого-то тёмного ритуала. Вы подходите ближе, и все они одновременно поворачиваются к вам. Самый высокий из них оголяет клыки и протягивает к вам длинную бледную руку. NL ~Ты~ ~до~ ~сих~ ~пор~ ~считаешь~ ~себя~ ~отдельной~ ~сущностью~ ~от~ ~целого~, ~Я~ ~знаю~ ~лучще~. ~И~ ~Я~. ~Покажу~. ~Это~. ~Тебе~."
     ]
   }
 }

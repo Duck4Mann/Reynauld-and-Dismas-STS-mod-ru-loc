@@ -1,94 +1,94 @@
 {
         "DarkestMod:AfflictPower": {
-                "NAME": "AFFLICTION",
+                "NAME": "Психоз",
                 "DESCRIPTIONS": [
-                        "You applied AFF"
+                        "На вас действует Безумие"
                 ]
         },
 
         "DarkestMod:Abusive": {
-                "NAME": "ABUSIVE",
+                "NAME": "ОСКОРБИТЕЛЬНЫЙ",
                 "DESCRIPTIONS": [
-                        "AFFLICTION: NL You can not apply Block for 1 turn."
+                        "Психоз: NL Вы не можете получать Защиту 1 ход."
                 ]
         },
         "DarkestMod:Fearful": {
-                "NAME": "FEARFUL",
+                "NAME": "БОЯЗНЕННЫЙ",
                 "DESCRIPTIONS": [
-                        "AFFLICTION: NL Lose 2 Strength and Dexterity "
+                        "Психоз: NL Отнимает 2 Силы и 2 Ловкости "
                 ]
         },
         "DarkestMod:Hopeless": {
-                "NAME": "HOPELESS",
+                "NAME": "БЕЗНАДЁЖНЫЙ",
                 "DESCRIPTIONS": [
-                        "AFFLICTION: NL Shuffle 5 Normalities into your deck"
+                        "Психоз: NL Добавляет 5 Обыденность в колоду"
                 ]
         },
         "DarkestMod:Irrational": {
-                "NAME": "IRRATIONAL",
+                "NAME": "ИРРАЦИОНАЛЬНЫЙ",
                 "DESCRIPTIONS": [
-                        "AFFLICTION: NL Become Hexed until the end of Combat."
+                        "Психоз: NL На вас действует Сглаз до конца боя."
                 ]
         },
         "DarkestMod:Masochistic": {
-                "NAME": "MASOCHISTIC",
+                "NAME": "МАЗОХИСТСКИЙ",
                 "DESCRIPTIONS": [
-                        "AFFLICTION: NL Apply 99 Vulnerable"
+                        "Психоз: NL Накладывает 99 Уязвимости"
                 ]
         },
 
 
         "DarkestMod:Paranoid": {
-                "NAME": "PARANOID",
+                "NAME": "ПАРАНОИДАЛЬНЫЙ",
                 "DESCRIPTIONS": [
-                        "AFFLICTION: NL Become Confused for the rest of Combat"
+                        "Психоз: NL На вас действует Замешательство до конца боя"
                 ]
         },
 
         "DarkestMod:Selfish": {
-                "NAME": "SELFISH",
+                "NAME": "ЭГОИСТИЧНЫЙ",
                 "DESCRIPTIONS": [
-                        "AFFLICTION: NL Lose 100 gold and shuffle 2 Kleptomaniac Curses into your deck"
+                        "Психоз: NL Отнимает 100 золота и добавляет 2 Клептомании в колоду"
                 ]
         },
 
         "DarkestMod:Courageous": {
-                "NAME": "COURAGEOUS",
+                "NAME": "СМЕЛЫЙ",
                 "DESCRIPTIONS": [
-                        "VIRTUE: NL Gain 3 Artifact and 3 Dexterity "
+                        "Душ. подъём: NL Даёт 3 Артефакта и 3 Ловкости "
                 ]
         },
 
         "DarkestMod:Focused": {
-                "NAME": "FOCUSED",
+                "NAME": "СОСРЕДОТОЧЕННЫЙ",
                 "DESCRIPTIONS": [
-                        "VIRTUE: NL Gain 3 turns of Intangible"
+                        "Душ. подъём: NL Даёт 3 Неосязаемости"
                 ]
         },
 
         "DarkestMod:Powerful": {
-                "NAME": "POWERFUL",
+                "NAME": "МОГУЩЕСТВЕННЫЙ",
                 "DESCRIPTIONS": [
-                        "VIRTUE: NL Gain 5 Strength."
+                        "Душ. подъём: NL Даёт 5 Силы."
                 ]
         },
         "DarkestMod:Stalwart": {
-                "NAME": "STALWART",
+                "NAME": "СТОЙКИЙ",
                 "DESCRIPTIONS": [
-                        "VIRTUE: NL Heal for 100 Stress."
+                        "Душ. подъём: NL Восстанавливает 100 Стресса."
                 ]
         },
         "DarkestMod:Vigorous": {
-                "NAME": "VIGOROUS",
+                "NAME": "БОДРЫЙ",
                 "DESCRIPTIONS": [
-                        "VIRTUE: NL Heal for 50 Health."
+                        "Душ. подъём: NL Восстанавливает 50 ОЗ."
                 ]
         },
 
         "DarkestMod:DeathsDoor": {
-                "NAME": "HEART ATTACK",
+                "NAME": "Сердечный приступ",
                 "DESCRIPTIONS": [
-                        "Health is reduced to 1."
+                        "ОЗ уменьшены до 1."
                 ]
         },
 
@@ -103,118 +103,118 @@
         },
 
         "DarkestMod:ArbalestPower": {
-                "NAME": "Arbalest",
+                "NAME": "Арбалетчица",
                 "DESCRIPTIONS": [
-                        "Wehenever you apply Marked also apply #b",
-                        " Weak."
+                        "При наложении Метки вы также накладываете #b",
+                        " Слабости."
                 ]
         },
 
         "DarkestMod:AntiqPower": {
-                "NAME": "Antiquarian",
+                "NAME": "Антиквар",
                 "DESCRIPTIONS": [
-                        "At the end of each turn add 1 Antique to your discard pile."
+                        "В начале каждого хода добавляет 1 Антиквариат в колоду сброса ."
                 ]
         },
 
         "DarkestMod:AbomPower": {
-                "NAME": "Abomination",
+                "NAME": "Выродок",
                 "DESCRIPTIONS": [
-                        "Even Turns gain 2 Temporary Strength. NL Odd Turns gain 2 Temporary Dexterity."
+                        "Даёт 2 временные Силы на чётный ход. NL Даёт 2 временные Ловкости на нечётный ход."
                 ]
         },
 
         "DarkestMod:BountyPower": {
-                "NAME": "Bounty Hunter",
+                "NAME": "Наёмник",
                 "DESCRIPTIONS": [
-                        "At the start of each turn apply Marked to a random enemy."
+                        "В начале каждого хода накладывает Отметку на случайного врага."
                 ]
         },
         "DarkestMod:CrusaderPower": {
-                "NAME": "Crusader",
+                "NAME": "Крестоносец",
                 "DESCRIPTIONS": [
-                        "Every time you play and Attack, gain 3 Block."
+                        "Даёт 3 Защиты за каждую разыгранную Атаку."
                 ]
         },
 
         "DarkestMod:FlagPower": {
-                "NAME": "Flagellant",
+                "NAME": "Самобичеватель ",
                 "DESCRIPTIONS": [
-                        "Gain #b",
-                        " temporary Strength when below 50% HP."
+                        "Даёт #b",
+                        " временной Силы если ОЗ ниже 50% ."
                 ]
         },
 
         "DarkestMod:GrobberPower": {
-                "NAME": "Grave Robber",
+                "NAME": "Могильная воровка",
                 "DESCRIPTIONS": [
-                        "At the start of turn add #b Thrown Daggers to the hand"
+                        "В начале каждого хода добавляет #b Бросок ножа в руку."
                 ]
         },
         "DarkestMod:HellionPower": {
-                "NAME": "Hellion",
+                "NAME": "Дикарка",
                 "DESCRIPTIONS": [
-                        "Whenever you gain Strength add random Attack cards to your hand, they cost 0 "
+                        "При получении Силы добавляет случайную Атаку в руку, она стоит 0. "
                 ]
         },
 
         "DarkestMod:HighwayPower": {
-                "NAME": "Highwayman",
+                "NAME": "Разбойник",
                 "DESCRIPTIONS": [
-                        "At the start of turn add a Grapeshot to the hand."
+                        "В начале каждого хода добавляет Картечный залп в руку ."
                 ]
         },
 
         "DarkestMod:LeperPower": {
-                "NAME": "Leper",
+                "NAME": "Прокажённый",
                 "DESCRIPTIONS": [
-                        "Each turn gain #b",
-                        " Strength if you have a Debuff."
+                        "Даёт #b",
+                        " Силы каждый ход, если у вас есть отриц. эффект."
                 ]
         },
 
         "DarkestMod:JesterPower": {
-                "NAME": "Jester",
+                "NAME": "Шут",
                 "DESCRIPTIONS": [
-                        "All incoming stress is reduced by 1."
+                        "Весь получаемый стресс уменьшается до 1."
                 ]
         },
         "DarkestMod:ManPower": {
-                "NAME": "Man At Arms",
+                "NAME": "Воитель",
                 "DESCRIPTIONS": [
-                        "Damage from attacks is halved",
-                        "for the next #b turns."
+                        "Урон от атак уменьшается на половину",
+                        "на #b ходов."
                 ]
         },
 
         "DarkestMod:VestalPower": {
-                "NAME": "Vestal",
+                "NAME": "Весталка",
                 "DESCRIPTIONS": [
-                        "All cards in the deck are upgraded."
+                        "Все карты в колоде улучшены."
                 ]
         },
 
         "DarkestMod:Riposte": {
-                "NAME": "Riposte",
+                "NAME": "Парирование",
                 "DESCRIPTIONS": [
-                        "Riposte, whenever attacked deal damage back."
+                        "Наносит урон в ответ на каждую атаку."
                 ]
         },
 
         "DarkestMod:OpenVein": {
-                "NAME": "Open Vein",
+                "NAME": "Порез вены",
                 "DESCRIPTIONS": [
-                        "All attacks apply an additional #b",
-                        " Bleed."
+                        "Все атаки накладывают #b",
+                        " Кровотечение."
                 ]
         },
 
 
         "DarkestMod:PlaguePower": {
-                "NAME": "Plague Doctor",
+                "NAME": "Чумной доктор",
                 "DESCRIPTIONS": [
-                        "When attacked and dealt damage, apply #b",
-                        " Blight to ALL enemies."
+                        "При получении урона, накладывает #b",
+                        " Отравления на ВСЕХ врагов."
                 ]
         },
 
@@ -229,95 +229,95 @@
                 ]
         },
         "DarkestMod:PowerAffliction": {
-                "NAME": "Afflicted",
+                "NAME": "Психоз",
                 "DESCRIPTIONS": [
-                        "No chance for egress - will this be a massacre?"
+                        "Никаких шансов на выход - мы идём на забой?"
                 ]
         },
 
         "DarkestMod:HeartAttack": {
-                "NAME": "Deaths Door",
+                "NAME": "На пороге смерти",
                 "DESCRIPTIONS": [
-                        "Stress Causes an Heart Attack and fall to 1 health"
+                        "Стресс вызвал Сердечный приступ из-за чего ОЗ упали до 1"
                 ]
         },
 
 
         "DarkestMod:PowerBleed": {
-                "NAME": "Bleed",
+                "NAME": "Кровотечение",
                 "DESCRIPTIONS": [
-                        "At the end of the bleeding  of your turn, enemies lose #b",
-                        "HP NL Bleed is reduced by 1 each turn."
+                        "[#b20000]Кровоточащие цели теряют #b",
+                        "ОЗ NL Уменьшается на 1 каждый ход."
                 ]
         },
 
         "DarkestMod:PowerBlight": {
-                "NAME": "Blight",
+                "NAME": "Отравление",
                 "DESCRIPTIONS": [
-                        "[#a0c704]Blighted targets lose #b",
-                        "HP when cards with Trigger are played."
+                        "[#a0c704]Отравленные цели теряют  #b",
+                        "ОЗ при игре карты с Активацией."
                 ]
         },
         "DarkestMod:PowerMarked": {
-                "NAME": "Marked",
+                "NAME": "Отметка",
                 "DESCRIPTIONS": [
-                        "[#550a8a]Marked Enemies take double damage from the next attack."
+                        "[#550a8a]Отмеченный враг получает удвоенный урон от следующей атаки."
                 ]
         },
 
         "DarkestMod:PowerStress": {
-        "NAME": "Stress",
+        "NAME": "Стресс",
         "DESCRIPTIONS": [
-                "Current stress level is #b",
-                " NL Become Afflcited at 100 Stress",
-                " NL Suffer a Heart attack at 200 Stress."
+                "Текущий уровень стресса #b",
+                " NL Получите Психоз при 100 Стресса",
+                " NL Испытайте Сердечный приступ при 200 Стресса."
         ]
 },
         "DarkestMod:StunnedPower": {
-        "NAME": "Stunned",
+        "NAME": "Оглушение",
         "DESCRIPTIONS": [
-                "If the enemy intends to attack Stun them NL Stunned enemies skip their action."
+                "Оглушённый враг пропускает свой ход."
         ]
 },
 
         "DarkestMod:Tracking": {
-                "NAME": "Tracking",
+                "NAME": "Выслеживание",
                 "DESCRIPTIONS": [
-                        "Whenever you play an Attack card this turn, the targeted enemy loses HP."
+                        "Выбранный враг теряет ОЗ при игре Атак в этом ходу."
                 ]
         },
 
         "DarkestMod:PowerLight": {
-                "NAME": "Torch Light",
+                "NAME": "Свет факела",
                 "DESCRIPTIONS": [
-                        "Current Light level is #b",
-                        " NL At + 7 gain + 1 Dexterity",
-                        " NL At -7  gain +1 Strength & +1 Vulnerable per turn."
+                        "Текущий уровень освещения #b",
+                        " NL При + 7 даёт + 1 Ловкость",
+                        " NL При -7  даёт +1 Силы и +1 Уязвимости в ход."
 
                 ]
         },
         "DarkestMod:CoughPower": {
-                "NAME": "Creeping Cough",
+                "NAME": "Хронический кашель",
                 "DESCRIPTIONS": [
-                        "Your next attack does 4 less damage."
+                        "Ваша следующая атака наносит на 4 урона меньше."
                 ]
         },
         "DarkestMod:RunsPower": {
-                "NAME": "The Runs",
+                "NAME": "Понос",
                 "DESCRIPTIONS": [
-                        "You lose 3 Max HP."
+                        "Вы теряете 3 макс ОЗ."
                 ]
         },
         "DarkestMod:RabiesPower": {
-                "NAME": "Rabies",
+                "NAME": "Бешенство",
                 "DESCRIPTIONS": [
-                        "When applied gain 2 Strength and lose 2 Dexterity."
+                        "При получении даёт 2 Силы и отнимает 2 Ловкости."
                 ]
         },
         "DarkestMod:RedPlaguePower": {
-                "NAME": "The Red Plague",
+                "NAME": "Красная чума",
                 "DESCRIPTIONS": [
-                        "When applied gain 3 Bleed and 4 Stress."
+                        "При получении накладывает 3 Кровотечения и 4 Стресса."
                 ]
         }
 }
