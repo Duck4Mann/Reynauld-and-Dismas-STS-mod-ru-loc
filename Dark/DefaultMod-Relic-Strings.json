@@ -1,6 +1,6 @@
 {
   "DarkestMod:BandanaRelic": {
-    "NAME": "Бандана "В яблочко".",
+    "NAME": "Бандана В яблочко",
     "FLAVOR": "Выстрелы, бинты и разбой — вот танец войны!",
     "DESCRIPTIONS": [
       "Накладывает Отметка на ВСЕХ врагов в начале 4 хода."
@@ -8,149 +8,149 @@
   },
 
   "DarkestMod:BeserkRelic": {
-    "NAME": "Berserk Mask.",
-    "FLAVOR": "This man understands that adversity and existence are one and the same.",
+    "NAME": "Маска Берсерка",
+    "FLAVOR": "Этот несчастный лучше других понимает, что страдание и бытие неразрывно связаны.",
     "DESCRIPTIONS": [
-      "20% Increased Virtue chance when afflicted."
+      "На 20% увелмчмвает  шанс Душ. подъёма."
     ]
   },
   "DarkestMod:BossStressUpgradeRelic": {
-    "NAME": "Stressed Meter.",
-    "FLAVOR": "The human mind - fragile like a robin's egg.",
+    "NAME": "Уровень стресса",
+    "FLAVOR": "Человеческий разум - хрупок как яйцо сойки.",
     "DESCRIPTIONS": [
-      "15 Stress reduced when entering a rest site.Tracks Stress between rounds."
+      "Восстанавливает 15 #yСтресса при входе в лагерь. Отслеживает #yСтресс между боями."
     ]
   },
 
   "DarkestMod:BlasphemousVialRelic": {
-    "NAME": "Blasphemous Vial",
-    "FLAVOR": "The slow death - unforeseen, unforgiving.",
+    "NAME": "Богохульная склянка",
+    "FLAVOR": "Медленная смерть - невиданна, непростительна.",
     "DESCRIPTIONS": [
-      "When attacks deal damage also apply 1 Blight to that enemy."
+      "Накладывает 1 Отравление на врага при получении от него урона."
     ]
   },
 
   "DarkestMod:CandleRelic": {
-    "NAME": "Candle of Life.",
-    "FLAVOR": "She searches where others will not go... and sees what others will not see.",
+    "NAME": "Свеча жизни",
+    "FLAVOR": "Она ищет там, где другие не ходят, и видит то, что не могут увидеть другие.",
     "DESCRIPTIONS": [
-      "At the start of your 2nd turn Gain 10 Block and 2 max HP."
+      "В начале 2 хода даёт 10 Защиты и 2 макс. ОЗ."
     ]
   },
 
   "DarkestMod:DemonsRelic": {
-    "NAME": "Demons Cauldron",
-    "FLAVOR": "To fight the abyss, one must know it..",
+    "NAME": "Котёл демона",
+    "FLAVOR": "Чтобы одолеть бездну, нужно хорошо её знать.",
     "DESCRIPTIONS": [
-      "Every 2 times you shuffle your draw pile, gain 1 Strength and add a Curse: The Runs into the deck."
+      "Даёт 1 Силу и добавляет Проклятье: Понос в колоду, при каждой 2 перетасовке."
     ]
   },
 
   "DarkestMod:GuardianRelic": {
-    "NAME": "Guardian's Shield.",
-    "FLAVOR": "The raw strength of youth may be spent, but his eyes hold the secrets of a hundred campaigns.",
+    "NAME": "Щит стража",
+    "FLAVOR": "Сила юности уже вся утрачена, но его глаза хранят секреты сотни военных кампаний.",
     "DESCRIPTIONS": [
-      "At the start of your 3rd turn Gain 5 Plated Armour."
+      "В начале 3 хода Даёт 5 Панциря."
     ]
   },
   "DarkestMod:GunslingerRelic": {
-    "NAME": "Gunslinger's Buckle.",
-    "FLAVOR": "Elusive, evasive, persistent. Righteous traits for a rogue.",
+    "NAME": "Пряжка стрелка",
+    "FLAVOR": "Хорошего вора отличают незаметность, увёртливость и упорство.",
     "DESCRIPTIONS": [
-      "At the start of each combat, add a Tracking Shot into your hand."
+      "В начале боя добавляет Прицельный выстрел в руку."
     ]
   },
   "DarkestMod:HairpinRelic": {
-    "NAME": "Hell's Hairpin.",
-    "FLAVOR": "Barbaric rage and unrelenting savagery make for a powerful ally.",
+    "NAME": "Адская заколка",
+    "FLAVOR": "Ярость варвара и непреклонная свирепость делают её могучим союзником.",
     "DESCRIPTIONS": [
-      "When the Light Level is -5 or less Gain 1 energy."
+      "Даёт 1 [E] , если уровень Света меньше -5 ."
     ]
   },
   "DarkestMod:HolyRelic": {
-    "NAME": "Holy Orders.",
-    "FLAVOR": "A mighty sword-arm anchored by a holy purpose. A zealous warrior.",
+    "NAME": "Священные приказы",
+    "FLAVOR": "Фанатичный воин Света с мечом в руке и верой в сердце!",
     "DESCRIPTIONS": [
-      "Once per combat right click to remove all debuffs."
+      "ПКМ один раз за бой для снятия всех отриц. эффектов."
     ]
   },
 
   "DarkestMod:LuckyDiceRelic": {
-    "NAME": "Critical Dice",
-    "FLAVOR": "He will be laughing still... at the end.",
+    "NAME": "Критические кости",
+    "FLAVOR": "Он из тех, кто смеётся последним.",
     "DESCRIPTIONS": [
-      "Once per combat right click to discard any number of cards then draw that many."
+      "ПКМ один раз за бой для сброса любого количества карт, затем возьмите столько же."
     ]
   },
 
   "DarkestMod:PunishmentsHoodRelic": {
-    "NAME": "Punishment's Hood",
-    "FLAVOR": "Great is the weapon that cuts on its own!",
+    "NAME": "Капюшон наказанного",
+    "FLAVOR": "Бремя страданий нельзя делить с другими!",
     "DESCRIPTIONS": [
-      "Whenever attacked apply 1 bleed to ALL enemies ."
+      "Накладывает 1 Кровотечение на ВСЕХ врагов при ролучении урона."
     ]
   },
 
   "DarkestMod:RaiderRelic": {
-    "NAME": "Raider's Talisman.",
-    "FLAVOR": "To those with a keen eye, gold gleams like a dagger's point.",
+    "NAME": "Талисман рейдера",
+    "FLAVOR": "Острое зрение позволяет ей легко находить золото и ловко орудовать кинжалом.",
     "DESCRIPTIONS": [
-      "The 2nd time you play an attack card remove Block from ALL enemies."
+      "Убирает Защиту ВСЕХ врагов после 2 разыгранной атаки."
     ]
   },
 
   "DarkestMod:RestrainingRelic": {
-    "NAME": "Restraining Padlock.",
-    "FLAVOR": "Tortured and reclusive... this man is more dangerous than he seems...",
+    "NAME": "Ограничивающий замок",
+    "FLAVOR": "Этот замкнутый, истерзанный пытками человек куда опаснее, чем может показаться.",
     "DESCRIPTIONS": [
-      "At the start of your 2nd turn gain 2 temporary Strength."
+      "Даёт 2 временных Силы в начале 2 хода."
     ]
   },
 
   "DarkestMod:SpikedRelic": {
-    "NAME": "Spiked Collar.",
-    "FLAVOR": "A lawman and his faithful beast. A bond forged by battle and bloodshed.",
+    "NAME": "Шипастый ошейник",
+    "FLAVOR": "Слуга закона и его верный пёс – эта дружба выдержала испытание в кровопролитных сражениях.",
     "DESCRIPTIONS": [
-      "At the start of each combat, gain 1 Riposte."
+      "Даёт 1 Парирование в начале боя."
     ]
   },
 
   "DarkestMod:StressRelic": {
-    "NAME": "Stress Meter.",
-    "FLAVOR": "Injury and despondence set the stage for heroism... or cowardice..",
+    "NAME": "Уровень стресса",
+    "FLAVOR": "Раны и уныние закладывают основу для героизма... или трусости.",
     "DESCRIPTIONS": [
-      "Tracks Stress between rounds."
+      "Отслеживает #yСтресс между боями."
     ]
   },
   "DarkestMod:TorchLightRelic": {
-    "NAME": "Torch Light",
-    "FLAVOR": "The way is lit. The path is clear. We require only the strength to follow it.",
+    "NAME": "Свет Факела",
+    "FLAVOR": "Тропа освещена. Путь свободен. Нам нужна только сила, для продолжения.",
     "DESCRIPTIONS": [
-      "At the beginning of combat gain #b1 Light ."
+      "Даёт 1 уровень Света в начале боя."
     ]
   },
 
   "DarkestMod:TomeRelic": {
-    "NAME": "Tome of Holy Healing",
-    "FLAVOR": "The wounds of war can be healed, but never hidden.",
+    "NAME": "Том о священном исцелении",
+    "FLAVOR": "Раны войны можно вылечить, но не скрыть.",
     "DESCRIPTIONS": [
-      "Heal for 15 upon pickup. Start each combat with +2 Light."
+      "Восстанавливает 15 ОЗ при взятии. В начале боя даёт +2 уровня Света."
     ]
   },
 
   "DarkestMod:VenomousRelic": {
-    "NAME": "Venomous Vial.",
-    "FLAVOR": "A sharper sword, a stronger shield. Anything to prolong a soldier's life.",
+    "NAME": "Ядовитый флакон",
+    "FLAVOR": "Острейший меч, сильнейший щит. Всё для продления жизни солдата.",
     "DESCRIPTIONS": [
-      "At the start of each combat, apply 3 Blight to ALL enemies."
+      "Накладывает 3 Отравления на ВСЕХ врагов в начале боя."
     ]
   },
 
   "DarkestMod:WoundingRelic": {
-    "NAME": "Wounding Helmet.",
-    "FLAVOR": "Surgical precision!",
+    "NAME": "Ранящий шлем",
+    "FLAVOR": "Хирургическая точность!",
     "DESCRIPTIONS": [
-      "Shovels do 4 more damage"
+      "Урон Лопаты увеличен на 4."
     ]
   },
 
