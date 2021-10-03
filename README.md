@@ -4,7 +4,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2434670256 orig
 
 Установка
 
-Открыть папку с модом (Steam\SteamApps\workshop\content\646570\2007764058)
+Открыть папку с модом (Steam\SteamApps\workshop\content\646570\2434670256)
 
 Открыть файл demoMod.jar редактором архивов
 
