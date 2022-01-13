@@ -33,7 +33,7 @@
 
   "DarkestMod:Defender": {
     "NAME": "Защитник",
-    "DESCRIPTION": "Накладывает !M! Панциря. NL Даёт !M! darkestmod:Парирования NL Сжигается "
+    "DESCRIPTION": "Накладывает !M! Панциря. NL Даёт !M! darkestmod:Парирования . NL Сжигается "
   },
   "DarkestMod:Divine Comfort": {
     "NAME": "Божественная поддержка",
@@ -42,7 +42,7 @@
 
   "DarkestMod:Duelists Advance": {
     "NAME": "Боевой натиск",
-    "DESCRIPTION": "Вы берёте 2 карты. NL Даёт !M! darkestmod:Парирования "
+    "DESCRIPTION": "Вы берёте 2 карты. NL Даёт !M! darkestmod:Парирования . "
   },
 
   "DarkestMod:Festering Vapours": {
@@ -51,18 +51,18 @@
   },
 
   "DarkestMod:Flashing Daggers": {
-    "NAME": "Мерцающие кинжалы",
-    "DESCRIPTION": "Добавляет !M! Бросок кинжала в руку."
+    "NAME": "Мерцающие ножи",
+    "DESCRIPTION": "Добавляет !M! Бросок ножа в руку."
   },
 
   "DarkestMod:Get Down": {
     "NAME": "Ложись!",
-    "DESCRIPTION": "Сбрасывает 1 карту. NL Вы берёте !M! карт"
+    "DESCRIPTION": "Сбрасывает 1 карту. NL Вы берёте !M! карты."
   },
 
   "DarkestMod:Guard Dog": {
     "NAME": "Сторожевой пёс",
-    "DESCRIPTION": "Даёт !B! Защиты. NL Вы берёте карту"
+    "DESCRIPTION": "Даёт !B! Защиты. NL Вы берёте карту."
   },
 
   "DarkestMod:Illumination": {
@@ -77,7 +77,7 @@
 
   "DarkestMod:Inspiring Cry": {
     "NAME": "Воодушевление",
-    "DESCRIPTION": "Восстанавливает !M! Стресса и даёт +5 darkestmod:Света."
+    "DESCRIPTION": "Восстанавливает !M! Стресса и даёт 5 darkestmod:Света."
   },
 
   "DarkestMod:Noxious Blast": {
@@ -93,17 +93,17 @@
   "DarkestMod:Plague Grenade": {
     "NAME": "Чумная граната",
     "DESCRIPTION": "darkestmod:Активирует darkestmod:Отравление на враге.",
-    "UPGRADE_DESCRIPTION":"darkestmod:Активирует darkestmod:Отравление на враге. NL Возьмите карту."
+    "UPGRADE_DESCRIPTION":"darkestmod:Активирует darkestmod:Отравление на враге. NL Вы берёте 1 карту."
   },
 
   "DarkestMod:Protect Me": {
     "NAME": "Защити меня",
-    "DESCRIPTION": "Даёт !B! Защиты получите !M! darkestmod:Стресса "
+    "DESCRIPTION": "Даёт !B! Защиты NL Даёт !M! darkestmod:Стресса "
   },
 
   "DarkestMod:Purge": {
     "NAME": "Очищение",
-    "DESCRIPTION": "Отнимает -3 darkestmod:Света. NL Вы берёте !M! карт. "
+    "DESCRIPTION": "Отнимает 3 darkestmod:Света. NL Вы берёте !M! карт. "
   },
 
   "DarkestMod:Provisions": {
@@ -118,7 +118,7 @@
 
   "DarkestMod:Redeem": {
     "NAME": "Искупление",
-    "DESCRIPTION": "Лечит 25% макс. ОЗ. NL Можно разыграть только при 40% макс. ОЗ. "
+    "DESCRIPTION": "Лечит 25% макс. ОЗ. NL Можно разыграть только при 40% от макс. ОЗ. "
   },
 
   "DarkestMod:ShadowFade": {
@@ -128,7 +128,7 @@
 
   "DarkestMod:Serpent Sway": {
     "NAME": "Раскачивание змеи",
-    "DESCRIPTION": "Вы получаете!M! darkestmod:Буфер. NL Сжигается."
+    "DESCRIPTION": "Вы получаете !M! darkestmod:Буфер. NL Сжигается."
   },
 
   "DarkestMod:Snipers Mark": {
@@ -144,7 +144,7 @@
 
   "DarkestMod:Target Whistle": {
     "NAME": "Прицельный свист",
-    "DESCRIPTION": "Накладывает darkestmod:Отметка на врага. NL Вы берёте на !M! карты больще в следующем ходу."
+    "DESCRIPTION": "Накладывает darkestmod:Отметка на врага. NL Вы берёте на !M! карты больше в следующем ходу."
   },
 
   "DarkestMod:Torch": {
@@ -154,7 +154,7 @@
 
   "DarkestMod:Tracking Shot": {
     "NAME": "Прицельный выстрел",
-    "DESCRIPTION": "В этом ходу этот враг будет терять !M! ОЗ за каждую разыгрываемую карту."
+    "DESCRIPTION": "В этом ходу этот враг будет терять !M! ОЗ за каждую разыгрываемую атаку."
   },
 
 
@@ -180,7 +180,7 @@
   },
 
   "DarkestMod:attackPoisonTest": {
-    "NAME": "ЯД",
+    "NAME": "Яд",
     "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! darkestmod:Отравление на врага. NL Даёт !M! darkestmod:Стресса. "
   },
 
@@ -201,7 +201,7 @@
 
   "DarkestMod:Breakthrough": {
     "NAME": "Прорыв",
-    "DESCRIPTION": "Убирает всю Защиту врагов. NL Наносит !D! урона X раз ВСЕМ врагам."
+    "DESCRIPTION": "Снимает всю Защиту с врагов. NL Наносит !D! урона X раз ВСЕМ врагам."
   },
 
   "DarkestMod:Chop": {
@@ -216,7 +216,7 @@
 
   "DarkestMod:Dazzling Light": {
     "NAME": "Слепящий свет",
-    "DESCRIPTION": "Наносит !D! урона. NL Добавляет !M! darkestmod:Света."
+    "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! darkestmod:Света."
   },
 
   "DarkestMod:Dirk Stab": {
@@ -249,7 +249,7 @@
 
   "DarkestMod:Harvest": {
     "NAME": "Жатва",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! darkestmod:Кровотечения на ВСЕХ врагов."
+    "DESCRIPTION": "Наносит !D! урона и накладывает !M! darkestmod:Кровотечения на ВСЕХ врагов."
   },
 
   "DarkestMod:Incision": {
@@ -264,12 +264,12 @@
 
   "DarkestMod:PickToTheFace": {
     "NAME": "Киркой в лицо",
-    "DESCRIPTION": "Наносит !D! урона. Положите карту из стопки добора в руку."
+    "DESCRIPTION": "Наносит !D! урона. Положите карту из стопки добора в руку. "
   },
 
   "DarkestMod:Pierce": {
     "NAME": "Пробивание",
-    "DESCRIPTION": "Убирает всю Защиту врага. NL Наносит !D! урона."
+    "DESCRIPTION": "Снимает всю Защиту с врага. NL Наносит !D! урона."
   },
 
     "DarkestMod:Pistol Shot": {
@@ -373,7 +373,7 @@
   "DarkestMod:Hellion": {
     "NAME": "Дикарка",
     "DESCRIPTION": "При получении Силы добавляет случайную Атаку в руку, она стоит 0.",
-    "UPGRADE_DESCRIPTION":"При получении Силы добавляет 2 случайные Атаки в руку, они стоит 0."
+    "UPGRADE_DESCRIPTION":"При получении Силы добавляет 2 случайные Атаки в руку, они стоят 0."
   },
 
   "DarkestMod:Highwayman": {
@@ -393,7 +393,7 @@
 
   "DarkestMod:Leper": {
     "NAME": "Прокажённый",
-    "DESCRIPTION": "В начале хода даёт !M! Силы, если у вас есть darkestmod:Отриц._эффект ."
+    "DESCRIPTION": "В начале хода даёт !M! Силы если у вас есть darkestmod:Отриц._эффект ."
   },
 
   "DarkestMod:ManAtArms": {
@@ -418,7 +418,7 @@
 
   "DarkestMod:Vestal": {
     "NAME": "Весталка",
-    "DESCRIPTION": "Оставляется. NL Может быть сыграно только, если darkestmod:Уровень_света !M! или больще. NL Улучшает все карты в колоде. "
+    "DESCRIPTION": "Оставляется. NL Может быть сыграно только, если darkestmod:Уровень_света !M! или больше. NL Улучшает все карты в колоде. "
   },
 
   "DarkestMod:AfflictionTemp": {
